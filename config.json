@@ -1,0 +1,6 @@
+{
+	"log_file" : "./backend_log.log",
+	"database" : {
+		"url" : "mongodb://localhost:12345/waste-management-v6"
+	}
+}
